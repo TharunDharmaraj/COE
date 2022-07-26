@@ -42,6 +42,8 @@ public class ExamDetails extends AppCompatActivity {
         last_dat.setText(clicked_exam_last_date);
         Button back_details = (Button) findViewById(R.id.backbutton);
         Button register_details = (Button) findViewById(R.id.registerbutton);
+        register_details.setEnabled(false);
+
         ImageView btnpre = (ImageView) findViewById(R.id.btnpre);
         TextView title = (TextView) findViewById(R.id.timetable);
         if(is_admin){

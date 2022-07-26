@@ -14,8 +14,8 @@ import com.example.coe.adminactivity.admincreateexamactivity.CreateExamActivity;
 import com.example.coe.createnotification.CreateNotificationActivity;
 
 public class CreateAlertActivity extends AppCompatActivity {
-    public static String title;
-    public static String desc;
+    public static String title = "Sample";
+    public static String desc = "Example";
     EditText alert_t;
     EditText alert_d;
     Button but;

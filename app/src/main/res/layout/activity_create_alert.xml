@@ -101,7 +101,7 @@
                 android:layout_marginBottom="35dp"
                 android:backgroundTint="@color/red"
                 android:fontFamily="@font/montserrat"
-                android:text="@string/create_exam"
+                android:text="Create Alert"
                 android:textColor="@color/white"
                 android:textStyle="bold"
                 app:cornerRadius="10dp" />

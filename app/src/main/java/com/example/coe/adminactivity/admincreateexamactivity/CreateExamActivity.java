@@ -65,7 +65,7 @@ public class CreateExamActivity extends AppCompatActivity {
         exam_eligibility = (EditText) findViewById(R.id.txtAdminEligibility);
 
         create_exam = (Button) findViewById(R.id.btnCreateExam) ;
-
+        create_exam.setEnabled(false);
         pre = (ImageView) findViewById(R.id.btnPrevious);
 
         DatePickerDialog.OnDateSetListener date_ =new DatePickerDialog.OnDateSetListener() {
