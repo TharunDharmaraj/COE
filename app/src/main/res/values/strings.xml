@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">COE</string>
+    <string name="home">Home</string>
+    <string name="announcements">Announcements</string>
+    <string name="timetable">Time Table</string>
+    <string name="result">Result</string>
+    <string name="publish_result">Publish Result</string>
+    <string name="complaints">Complaints</string>
+    <string name="notification">Notification</string>
+    <string name="logout">logout</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="filter">sort by</string>
+    <string name="withdrawcomplaint">Withdraw Complaint</string>
+    <string name="name">Name</string>
+    <string name="yourname">Your name</string>
+    <string name="complaintname">Complaint Name</string>
+    <string name="complainttype">Complaint Type</string>
+    <string name="choose_programming_language">Choose Semester</string>
+    <string name="choose_semester">Choose Semester</string>
+   <string name="subject">--</string>
+    <string name="ok">Ok</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="tt">TT</string>
+    <string name="day_1">DAY 1</string>
+    <string name="day_2">DAY 2</string>
+    <string name="day_3">DAY 3</string>
+    <string name="_3">3</string>
+    <string name="day_4">DAY 4</string>
+    <string name="day_5">DAY 5</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+
+    <string name="pick_start_and_end_date">Pick Start and End date</string>
+    <string name="start_date">Start Date : -- -- ----</string>
+    <string name="end_date">End Date : -- -- ----</string>
+
+    <string name="samplestring">
+            I am writing this complaint regarding the payment issue that i had.
+        I was trying to make a payment and the respective amount is debited from my account.
+        But i am still not able to access the exam.
+        Please take a loot at this issue as soon as possible
+    </string>
+    <string name="raisecomplaint">Raise Complaint</string>
+
+    <string-array name="complaint_types">
+        <item>Complaint type1</item>
+        <item>Complaint type2</item>
+        <item>Complaint type3</item>
+        <item>Complaint type4</item>
+        <item>Complaint type5</item>
+    </string-array>
+    <string name="total_exams">Total\nExams</string>
+    <string name="ongoing_exams">Ongoing\nExams</string>
+    <string name="completed_exams">Completed\nExams</string>
+    <string name="upcoming_exams">Upcoming\nExams</string>
+    <string name="completed_exams1">Completed Exams</string>
+    <string name="ongoing_exams1">Ongoing Exams</string>
+    <string name="exam">Exam</string>
+    <string name="create_exam">Create Exam</string>
+    <string name="users">Users</string>
+    <string name="exam_registration">Exam Registration</string>
+    <string name="notification_channel_id">default</string>
+
+</resources>
